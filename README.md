@@ -1,102 +1,111 @@
-<h1 align="center">Hi there, I'm Piyush Bhajikhaye 👋</h1>
-<h3 align="center">AI/ML Engineer & Data Analyst | Turning Data into Decisions</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/piyush-bhajikhaye/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://portfolio.piyushbhajikhaye.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="mailto:bhajikhayepiyush93@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Piyush%20Bhajikhaye&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Data%20Analyst%20%C2%B7%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=B.Tech+in+Artificial+Intelligence;Building+RAG+%26+Multi-Agent+AI+Systems;Data+Analyst+%7C+ML+%7C+GenAI;Turning+Raw+Data+into+Business+Insights" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=1F3864&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions;Building+RAG+%26+multi-agent+AI+systems;Published+IEEE+researcher;B.Tech+in+Artificial+Intelligence" alt="Typing SVG" />
 
----
+<br>
 
-### 🚀 About Me
+<a href="https://www.linkedin.com/in/piyush-bhajikhaye/"><img src="https://img.shields.io/badge/LinkedIn-1F3864?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://portfolio.piyushbhajikhaye.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=flat-square&logo=vercel&logoColor=white"></a>
+<a href="mailto:bhajikhayepiyush93@gmail.com"><img src="https://img.shields.io/badge/Email-1F3864?style=flat-square&logo=gmail&logoColor=white"></a>
 
-- 🎓 B.Tech in Artificial Intelligence, JD College of Engineering & Management (CGPA: 8.56) — Class of 2026
-- 🔭 Currently building **SynapseOS**, a multi-agent AI research assistant using RAG + LangChain + ChromaDB
-- 📊 Experienced in end-to-end data analysis — from raw data to stakeholder-ready dashboards
-- 📝 Published researcher — IEEE conference presenter & UGC CARE-listed journal author
-- 🌱 Actively exploring: Agentic AI, LLM orchestration, and enterprise-scale data automation
-- 💬 Ask me about: Python, SQL, Machine Learning, Power BI, or RAG pipelines
-- ⚡ Fun fact: I hold a copyright registration for an IoT-based women's safety device
+</div>
 
----
+<br>
 
-### 🛠️ Tech Stack
+## → About
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-</p>
+```
+class Piyush:
+    def __init__(self):
+        self.role       = "AI/ML Engineer & Data Analyst"
+        self.education  = "B.Tech, Artificial Intelligence (CGPA 8.56)"
+        self.building   = "SynapseOS — a multi-agent RAG research assistant"
+        self.published  = ["IEEE Conference Paper (IGNITE-2026)",
+                            "UGC CARE-listed Journal Review Paper"]
+        self.holds      = "Copyright — IoT Women's Safety Device"
 
----
+    def turns_into_insight(self, raw_data):
+        return "dashboards, models, and decisions"
+```
 
-### 📌 Featured Projects
+<br>
 
-<table>
+## → Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,fastapi,git,github,vscode&theme=light" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+</div>
+
+<br>
+
+## → Featured builds
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
+<h3>🧠 SynapseOS</h3>
+<i>Multi-Agent AI Roadmap & Research Assistant</i>
+<br><br>
 
-**🤖 [SynapseOS – Multi-Agent AI Research Assistant](https://github.com/Piyush25800/SynapseOS-Multi-Agent-AI-Roadmap-Research-Assistant)**
+A modular agent system that plans personalized learning roadmaps and answers research queries — built on a RAG pipeline with persistent vector memory.
 
-Modular multi-agent system generating personalized learning roadmaps using FastAPI, LangChain, Ollama (Phi-3), and ChromaDB vector memory. Features a RAG pipeline and n8n-orchestrated agent workflows.
+<br>
 
-`Python` `FastAPI` `LangChain` `ChromaDB` `RAG`
+`FastAPI` `LangChain` `Ollama` `ChromaDB` `n8n`
+
+<br><br>
+
+<a href="https://github.com/Piyush25800/SynapseOS-Multi-Agent-AI-Roadmap-Research-Assistant"><img src="https://img.shields.io/badge/View_repo-1F3864?style=flat-square&logo=github&logoColor=white"></a>
 
 </td>
 <td width="50%" valign="top">
+<h3>📦 Return Rate Root Cause Engine</h3>
+<i>E-Commerce Analytics</i>
+<br><br>
 
-**📦 [E-Commerce Return Rate Root Cause Engine](https://github.com/Piyush25800/ecommerce-return-rate-engine)**
+End-to-end pipeline on 1,500+ orders — root-caused a 27.27% return rate down to specific product and regional drivers, with a modeled ₹52,930/yr savings path.
 
-End-to-end analytics engine processing 1,500+ orders — 19 SQL queries, a 4-page Power BI dashboard, and an Excel what-if model projecting ₹52,930 in annual savings from a 27.27% return rate.
+<br>
 
 `Python` `SQL` `Power BI` `Excel`
+
+<br><br>
+
+<a href="https://github.com/Piyush25800/ecommerce-return-rate-engine"><img src="https://img.shields.io/badge/View_repo-1F3864?style=flat-square&logo=github&logoColor=white"></a>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-### 🏆 Achievements
+## → Milestones
 
-- 🎤 **IEEE Conference Presenter** — IGNITE-2026, IEEE Pune Section (Conference Record #69592)
-- 📄 **Published Author** — *"Smart Safety Handbag for Women using IoT"*, Industrial Engineering Journal (UGC CARE-listed, Impact Factor 6.82)
-- ©️ **Copyright Holder** — Smart Safety Handbag for Women (IoT-based women's safety device)
-- 📜 **Certified** — Oracle OCI Data Science Professional, OCI Generative AI Professional, IBM Python for Data Science
+<table width="100%">
+<tr><td width="60"><b>🎤</b></td><td><b>IEEE Conference Presenter</b><br><sub>IGNITE-2026, IEEE Pune Section — Conference Record #69592</sub></td></tr>
+<tr><td><b>📄</b></td><td><b>Published Author</b><br><sub>"Smart Safety Handbag for Women using IoT" — Industrial Engineering Journal, UGC CARE-listed, Impact Factor 6.82</sub></td></tr>
+<tr><td><b>©️</b></td><td><b>Copyright Holder</b><br><sub>Smart Safety Handbag for Women — IoT-based safety device</sub></td></tr>
+<tr><td><b>📜</b></td><td><b>Certified</b><br><sub>Oracle OCI Data Science Professional · OCI Generative AI Professional · IBM Python for Data Science</sub></td></tr>
+</table>
 
----
+<br>
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Piyush25800&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush25800&layout=compact&hide_border=true&title_color=1F3864&text_color=333"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=100&section=footer" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush25800&hide_border=true&stroke=1F3864&ring=1F3864&fire=1F3864&currStreakLabel=1F3864"/>
-</p>
+<i>Open to conversations about AI, data, and things worth building.</i>
 
----
-
-<p align="center">
-  <em>📫 Let's connect — always open to conversations about AI, data, and building things that matter.</em>
-</p>
+</div>
