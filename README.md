@@ -1,121 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2C2C2A,100:1F3864&height=110&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1D9E75&height=180&section=header&text=piyush@career:~$&fontSize=38&fontColor=39FF14&fontAlignY=45&animation=twinkling&fontFamily=Fira+Code"/>
 
 </div>
 
-```
+```bash
 $ whoami
-```
+piyush-bhajikhaye — AI/ML Engineer & Data Analyst
 
-```json
-{
-  "name": "Piyush Bhajikhaye",
-  "role": "AI/ML Engineer · Data Analyst",
-  "based_in": "Nagpur, India",
-  "education": "B.Tech, Artificial Intelligence — CGPA 8.56",
-  "status": "building & publishing",
-  "currently": "SynapseOS — a multi-agent RAG research assistant"
-}
+$ cat mission.txt
+Turning raw data into decisions. Building agents that reason.
+
+$ ls education/
+B.Tech_Artificial_Intelligence.degree   CGPA_8.56.badge
+
+$ ./status --current
+[✓] Building SynapseOS — multi-agent RAG research assistant
+[✓] Published IEEE researcher, IGNITE-2026
+[✓] Copyright holder — IoT safety hardware
+[ ] Open to Data Analyst / AI Engineer roles
 ```
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/piyush-bhajikhaye/"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=378ADD&labelColor=000"></a>
-<a href="https://portfolio.piyushbhajikhaye.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=fff&labelColor=000"></a>
-<a href="mailto:bhajikhayepiyush93@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=D85A30&labelColor=000"></a>
+[![LinkedIn](https://img.shields.io/badge/-piyush--bhajikhaye-0D1117?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/piyush-bhajikhaye/)
+&nbsp;•&nbsp;
+[![Portfolio](https://img.shields.io/badge/-portfolio-0D1117?style=flat-square&logo=vercel)](https://portfolio.piyushbhajikhaye.workers.dev/)
+&nbsp;•&nbsp;
+[![Email](https://img.shields.io/badge/-email_me-0D1117?style=flat-square&logo=gmail)](mailto:bhajikhayepiyush93@gmail.com)
 
 </div>
 
 <br>
 
-```
-$ cat stack.sql
-```
+> [!TIP]
+> **Right now:** building `SynapseOS`, a RAG-powered multi-agent research assistant — planner + researcher agents, ChromaDB vector memory, n8n orchestration.
 
-```sql
-SELECT category, tool, proficiency FROM piyush.stack ORDER BY category;
+> [!IMPORTANT]
+> **Research track:** IEEE conference presenter (IGNITE-2026) and UGC CARE-listed journal author — turning independent research into published work, not just coursework.
 
- category      | tool           | proficiency
-----------------+----------------+-------------
- language       | python         | ■■■■■■■■■□  90%
- language       | sql            | ■■■■■■■■□□  85%
- data           | pandas / numpy | ■■■■■■■■■□  90%
- ml             | scikit-learn   | ■■■■■■■□□□  75%
- ml             | langchain      | ■■■■■■■□□□  70%
- visualization  | power bi       | ■■■■■■■■□□  85%
- visualization  | tableau        | ■■■■■■□□□□  65%
- backend        | fastapi        | ■■■■■■■□□□  75%
- database       | mysql / mongo  | ■■■■■■■□□□  70%
-```
+<br>
+
+## `/stack`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,fastapi,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,fastapi,git,github,vscode&theme=light" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 </div>
 
 <br>
 
-```
-$ ls ./projects --detailed
-```
+## `/builds`
 
 <details open>
-<summary><b>📁 SynapseOS/</b> — Multi-Agent AI Roadmap & Research Assistant</summary>
+<summary><b>🧠 SynapseOS — Multi-Agent AI Roadmap & Research Assistant</b></summary>
+
 <br>
 
-> A modular agent system that plans personalized learning roadmaps and answers research queries — built on a RAG pipeline with persistent vector memory and n8n-orchestrated agent workflows.
+A modular agent system that plans personalized learning roadmaps and answers research queries — built on a RAG pipeline with persistent vector memory.
 
 | | |
 |---|---|
-| **Stack** | `FastAPI` `LangChain` `Ollama` `ChromaDB` `n8n` |
-| **Core idea** | Planner Agent + Research Agent, orchestrated end-to-end |
-| **Repo** | [→ github.com/Piyush25800/SynapseOS](https://github.com/Piyush25800/SynapseOS-Multi-Agent-AI-Roadmap-Research-Assistant) |
+| **Stack** | FastAPI · LangChain · Ollama (Phi-3) · ChromaDB · n8n |
+| **Core idea** | Planner agent + research agent, coordinated via REST endpoints |
+| **Repo** | [→ SynapseOS-Multi-Agent-AI-Roadmap-Research-Assistant](https://github.com/Piyush25800/SynapseOS-Multi-Agent-AI-Roadmap-Research-Assistant) |
 
 </details>
 
 <details>
-<summary><b>📁 ecommerce-return-rate-engine/</b> — Root Cause Analytics</summary>
+<summary><b>📦 E-Commerce Return Rate Root Cause Engine</b></summary>
+
 <br>
 
-> Root-caused a 27.27% return rate across 1,500+ orders down to specific product and regional drivers — with a modeled ₹52,930/yr savings path.
+End-to-end analytics pipeline that root-caused a 27.27% return rate down to specific product and regional drivers.
 
 | | |
 |---|---|
-| **Stack** | `Python` `SQL` `Power BI` `Excel` |
-| **Core idea** | 19 SQL queries → feature engineering → BI dashboard → business case |
-| **Repo** | [→ github.com/Piyush25800/ecommerce-return-rate-engine](https://github.com/Piyush25800/ecommerce-return-rate-engine) |
+| **Stack** | Python · SQL (SQLite/MySQL) · Power BI · Excel |
+| **Key finding** | Wrong-size fit drove 30.81% of returns; Diwali seasonal spike identified |
+| **Modeled impact** | ₹52,930/yr in projected savings from a 15% return-rate reduction |
+| **Repo** | [→ ecommerce-return-rate-engine](https://github.com/Piyush25800/ecommerce-return-rate-engine) |
 
 </details>
 
 <br>
 
-```
-$ git log --oneline --decorate achievements
-```
+## `/milestones`
 
-```
-a3f21c9 (HEAD) copyright registered — IoT Safety Handbag for Women
-7d9e04b published — "Smart Safety Handbag for Women using IoT" | UGC CARE, IF 6.82
-1b2c88e presented — IEEE IGNITE-2026, Pune Section (#69592)
-e5f6a71 certified — Oracle OCI Data Science Professional
-c4d3b02 certified — Oracle OCI Generative AI Professional
-```
+> [!NOTE]
+> 🎤 **IEEE Conference Presenter** — IGNITE-2026, IEEE Pune Section (Conference Record #69592)
+
+> [!NOTE]
+> 📄 **Published Author** — *Smart Safety Handbag for Women using IoT*, Industrial Engineering Journal (UGC CARE-listed, IF 6.82)
+
+> [!NOTE]
+> ©️ **Copyright Holder** — Smart Safety Handbag for Women, IoT-based safety device
+
+> [!NOTE]
+> 📜 **Certified** — Oracle OCI Data Science Professional · OCI Generative AI Professional · IBM Python for Data Science
 
 <br>
 
-```
-$ cat connect.json
+## `/next`
+
+```diff
++ Agentic AI & LLM orchestration
++ Enterprise-scale data automation
++ Advanced SQL & data architecture
 ```
 
-```json
-{
-  "open_to": ["Data Analyst roles", "AI/ML Engineer roles", "collaboration"],
-  "reachable_via": "email or LinkedIn",
-  "response_time": "usually < 24h"
-}
-```
+<br>
 
 <div align="center">
-<br>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1F3864,100:2C2C2A&height=90&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1D9E75,100:0D1117&height=140&section=footer"/>
+
+<sub>run <code>./connect --with=piyush</code> — always up for a conversation about AI, data, or what you're building</sub>
+
 </div>
